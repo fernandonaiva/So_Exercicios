@@ -1,0 +1,44 @@
+
+body{
+   background: rgb(205, 223, 226);
+}
+
+header h1{
+   background: rgb(4, 224, 240);
+   padding: 20px;
+   text-align: center;
+}
+
+header p{
+   text-align: center;
+   font-size:20px;
+}
+
+div#titulo{
+   padding-top: 15px;
+   text-align:center;
+}
+
+div#titulo #t1{
+   background: white;
+}
+
+div#titulo #t2{
+   background: orange;
+}
+
+div#titulo #t3{
+   background: blue;
+}
+
+div#titulo #t4{
+   background: red;
+}
+
+div#titulo #t5{
+   background: yellow;
+}
+
+div#titulo #t6{
+   background: green;
+}
